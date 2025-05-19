@@ -1,0 +1,21 @@
+OrderID,OrderDate,Region,Category,SubCategory,Sales,Profit,Quantity,InventoryDays
+1,2023-01-01,East,Furniture,Chairs,120,25,2,30
+2,2023-01-16,West,Technology,Phones,340,80,3,15
+3,2023-01-31,South,Office Supplies,Paper,75,5,5,45
+4,2023-02-15,North,Furniture,Tables,230,40,1,20
+5,2023-03-02,East,Technology,Laptops,500,100,4,10
+6,2023-03-17,West,Furniture,Chairs,120,25,2,30
+7,2023-04-01,South,Technology,Phones,340,80,3,15
+8,2023-04-16,North,Office Supplies,Paper,75,5,5,45
+9,2023-05-01,East,Furniture,Tables,230,40,1,20
+10,2023-05-16,West,Technology,Laptops,500,100,4,10
+11,2023-05-31,South,Furniture,Chairs,120,25,2,30
+12,2023-06-15,North,Technology,Phones,340,80,3,15
+13,2023-06-30,East,Office Supplies,Paper,75,5,5,45
+14,2023-07-15,West,Furniture,Tables,230,40,1,20
+15,2023-07-30,South,Technology,Laptops,500,100,4,10
+16,2023-08-14,North,Furniture,Chairs,120,25,2,30
+17,2023-08-29,East,Technology,Phones,340,80,3,15
+18,2023-09-13,West,Office Supplies,Paper,75,5,5,45
+19,2023-09-28,South,Furniture,Tables,230,40,1,20
+20,2023-10-13,North,Technology,Laptops,500,100,4,10
